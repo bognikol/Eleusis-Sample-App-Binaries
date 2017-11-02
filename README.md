@@ -1,5 +1,6 @@
 # Eleusis-Sample-App-Binaries
-Compiled sample app for Eleusis GUI library for Windows
+Compiled sample app for Eleusis GUI library for Windows.
+
 Eleusis is work in progress; feel free to contribute.
 
 ## Requirements
